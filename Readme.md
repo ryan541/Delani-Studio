@@ -6,7 +6,7 @@
 
 Output: The user will be alerted whether, either the message has been received or the input is invalid
 
-###Support & Contact -Incase of any Emergency you can contact 07123456789 -Email: ryanmwaniki60@gmail.com -Live link : 
+###Support & Contact -Incase of any Emergency you can contact 07123456789 -Email: ryanmwaniki60@gmail.com -Live link :  https://ryan541.github.io/Delani-Studio/
 
 ###Author Designed by Ryan Mwaniki
 
